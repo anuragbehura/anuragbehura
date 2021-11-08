@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 there, I'm Anurag</h1>
-<h3 align="center">I am a Programmer & Developer from India</h3>
+<h3 align="center"> I am a Programmer & Developer. </h3>
 
 - 🙂 I'm currently working on my **Skill Developing**
 
