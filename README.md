@@ -3,11 +3,9 @@
 
 - 🙂 I'm currently working on my **Skill Developing**
 
-- 🌱 I’m currently learning **ML/DL**
+- 🌱 I’m currently learning **Game Development/ML/DL**
 
 - 👨‍💻 All of my projects are available at [https://anuragbehura.github.io/portfolio-anuragbehura/](https://anuragbehura.github.io/portfolio-anuragbehura/)
-
-- 💬 Ask me about **python**
 
 - 📫 How to reach me **behura960@gmail.com**
 
