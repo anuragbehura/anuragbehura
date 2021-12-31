@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **ML/DL**
 
-- 👨‍💻 All of my projects are available at [https://anuragbehura.github.io/portfolio-anuragbehura/](https://anuragbehura.github.io/portfolio-anuragbehura/)
-
 - 📫 How to reach me **behura960@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
