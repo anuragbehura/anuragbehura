@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm [Your Name], a passionate Full Stack Developer with a knack for crafting efficient and scalable web applications. With a solid foundation in both front-end and back-end technologies, I love bringing ideas to life through code. Here's a bit about me and what you can find on my GitHub:
+👋 Hi there! I'm Anurag🧒🏻, a passionate Full Stack Developer with a knack for crafting efficient and scalable web applications. With a solid foundation in both front-end and back-end technologies, I love bringing ideas to life through code. Here's a bit about me and what you can find on my GitHub:
 
 
 ## 🌐 Socials:
