@@ -1,28 +1,37 @@
-<h1 align="center">Hi 👋, I'm Anurag Behura</h1>
-<h3 align="center">Full Stack Developer | Building Chronicle - AI-Powered Content Platform</h3>
+<h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Anurag Behura</span></h1>
+<h3 align="center">💻 Full Stack Developer | Building <span style="color:#c678dd;">Chronicle</span> – AI-Powered Content Platform</h3>
 
 <p align="center">
-  Passionate about crafting scalable, user-focused web applications with modern technologies. Currently building <strong>Chronicle</strong>, an AI-powered content and document platform inspired by Notion.
+  Passionate about building <b>scalable, user-centric web apps</b> using modern technologies.<br/>
+  Currently crafting <b>Chronicle</b> — an <b>AI-powered content & document platform</b> inspired by Notion.
 </p>
 
 <p align="center">
-  🎓 BTech CSE @ Government College of Engineering, Keonjhar<br/>
-  💼 Open to Software Development Engineer (SDE) roles<br/>
-  📝 Writing at <a href="https://medium.com/@anuragbehura">Medium</a><br/>
-  🌱 Currently learning: PostgreSQL, System Design, AI Integrations
+  🎓 <b>BTech CSE</b> @ Government College of Engineering, Keonjhar<br/>
+  💼 Open to <b>Software Development Engineer (SDE)</b> roles<br/>
+  ✍️ Writing on <a href="https://medium.com/@anuragbehura" target="_blank">Medium</a><br/>
+  🌱 Currently exploring: <b>PostgreSQL</b> • <b>System Design</b> • <b>AI Integrations</b>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently building **Chronicle** - an AI-powered content and knowledge management platform
-- 💡 Experienced in building full-stack SaaS applications with **Next.js**, **TypeScript**, and **Node.js**
-- 🎯 Strong foundation in **Data Structures & Algorithms**, with focus on writing clean, maintainable code
-- 🌐 Check out my portfolio: [anuragbehura.vercel.app](https://anuragbehura.vercel.app)
-- 📫 Reach me: **behura960@gmail.com**
+- 🔭 Building **Chronicle** — AI-powered content & knowledge management platform  
+- ⚙️ Skilled in **Next.js**, **TypeScript**, **Node.js**, and modern SaaS architecture  
+- 💡 Strong foundation in **Data Structures & Algorithms** — love writing clean, efficient code  
+- 🌐 Portfolio: [anuragbehura.vercel.app](https://anuragbehura.vercel.app)  
+- 📫 Reach me at: **behura960@gmail.com**
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white"/>
+</p>
 
 ### 🛠️ Tech Stack
 
