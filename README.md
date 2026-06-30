@@ -1,24 +1,22 @@
 <h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Anurag Behura</span></h1>
-<h3 align="center">💻 Full Stack Developer | Building <span style="color:#c678dd;">Chronicle</span> – AI-Powered Content Platform</h3>
+<h3 align="center">💻 Software Engineer | Building <span style="color:#c678dd;">Chronicle</span> – AI-Powered Content and Document Platform</h3>
 
 <p align="center">
   Passionate about crafting scalable, user-focused web applications with modern technologies. Currently building <strong>Chronicle</strong>, an AI-powered content and document platform inspired by Notion.
-  Passionate about building <b>scalable, user-centric web apps</b> using modern technologies.<br/>
-  Currently crafting <b>Chronicle</b> — an <b>AI-powered content & document platform</b> inspired by Notion.
+  Passionate about building <b>scalable, user-centric web apps</b> using modern technologies.
 </p>
 
 <p align="center">
-  🎓 BTech CSE @ Government College of Engineering, Keonjhar<br/>
-  💼 Open to Software Development Engineer (SDE) roles<br/>
+  💼 Software Engineer<br/>
   📝 Writing at <a href="https://medium.com/@anuragbehura">Medium</a><br/>
-  🌱 Currently learning: PostgreSQL, System Design, AI Integrations
+  🌱 Currently learning: PostgreSQL, System Designing, AI Integrations
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🔭 Currently building **Chronicle** - an AI-powered content and knowledge management platform
+- 🔭 Currently building **Chronicle** - an AI-powered content and document platform inspired by Notion
 - 💡 Experienced in building full-stack SaaS applications with **Next.js**, **TypeScript**, and **Node.js**
 - 🎯 Strong foundation in **Data Structures & Algorithms**, with focus on writing clean, maintainable code
 - 🌐 Check out my portfolio: [anuragbehura.vercel.app](https://anuragbehura.vercel.app)
