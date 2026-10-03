@@ -1,70 +1,44 @@
+<img src="./assets/header.svg" alt="Anurag Behura, Software Engineer" width="100%">
+
 <div align="center">
 
-# Anurag Behura
-
-**Software Engineer** · Spring Boot & MySQL on the backend, Next.js & TypeScript on the front
-
-I build scalable, user-focused web products, from enterprise Java services to AI-powered SaaS.
-
-<br/>
-
-[Portfolio](https://anuragbehura.vercel.app) &nbsp;·&nbsp; [Medium](https://medium.com/@anuragbehura) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/anuragbehura) &nbsp;·&nbsp; [X](https://twitter.com/_anuragbehura_) &nbsp;·&nbsp; [Email](mailto:behura960@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58A6FF?style=flat-square&logo=vercel&logoColor=white)](https://anuragbehura.vercel.app)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@anuragbehura)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/anuragbehura)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/_anuragbehura_)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:behura960@gmail.com)
 
 </div>
 
 <br/>
 
-## Now
+### 👨‍💻 About
 
-|  |  |
+- Full-stack engineer building scalable, user-focused web apps
+- Day to day: **Java, Spring Boot and MySQL**; also fluent in **Next.js, TypeScript and Node.js**
+- Learning **PostgreSQL, system design and AI integrations**
+
+<br/>
+
+### 🧰 Tech Stack
+
+| | |
 | :-- | :-- |
-| **Building** | [Chronicle](https://anuragbehura.vercel.app), an AI-powered content and document platform inspired by Notion |
-| **Working with** | Java, Spring Boot, MySQL, and the realities of enterprise-scale codebases |
-| **Learning** | PostgreSQL, system design, AI integrations |
-| **2026 focus** | Ship Chronicle, go deeper on backend architecture, write about what I learn |
+| **Languages** | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
+| **Backend** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) |
+| **Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
 
 <br/>
 
-## Stack
+### 📈 GitHub
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,postgres,ts,js,python&theme=dark&perline=7">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,postgres,ts,js,python&theme=light&perline=7">
-  <img alt="Languages and databases" src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,ts,js,python&perline=7">
-</picture>
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,nodejs,express,mongodb&theme=dark&perline=7">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,nodejs,express,mongodb&theme=light&perline=7">
-  <img alt="Web stack" src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,nodejs,express,mongodb&perline=7">
-</picture>
-<br/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,docker,postman,vercel,html,css&theme=dark&perline=6">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,docker,postman,vercel,html,css&theme=light&perline=6">
-  <img alt="Tools" src="https://skillicons.dev/icons?i=git,docker,postman,vercel,html,css&perline=6">
-</picture>
-
-</div>
-
-<br/>
-
-**Backend** Java · Spring Boot · REST APIs · Node.js · Express · JWT
-**Data** MySQL · PostgreSQL · MongoDB
-**Frontend** Next.js · React · TypeScript · Tailwind CSS · Redux
-**Foundations** DSA · OOP · DBMS · Operating Systems · Computer Networks
-
-<br/>
-
-## Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anuragbehura&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide=prs,issues&count_private=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anuragbehura&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F&hide=prs,issues&count_private=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anuragbehura&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&hide=prs,issues&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anuragbehura&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0969DA&icon_color=8250DF&text_color=24292F&hide=prs,issues&count_private=true">
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuragbehura&show_icons=true&hide_border=true&hide=prs,issues">
 </picture>
 <picture>
@@ -73,29 +47,11 @@ I build scalable, user-focused web products, from enterprise Java services to AI
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragbehura&layout=compact&hide_border=true">
 </picture>
 
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=anuragbehura&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=anuragbehura&theme=default&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=anuragbehura&hide_border=true">
-</picture>
-
 </div>
 
 <br/>
 
-## Writing
+### ✍️ Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
-<sub>Auto-updated from [Medium](https://medium.com/@anuragbehura). See the workflow file.</sub>
-
-<br/>
-
-<div align="center">
-
-<sub>Always building, always learning. Say hi: <a href="mailto:behura960@gmail.com">behura960@gmail.com</a></sub>
-
-</div>
