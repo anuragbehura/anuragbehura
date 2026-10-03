@@ -53,4 +53,7 @@
 
 ### ✍️ Latest Writing
 
-<!-- BLOG-POST-LIST:START -->- [Access and Refresh Tokens in Authentication&lpar;in simple way&rpar;](https://medium.com/@anuragbehura/access-and-refresh-tokens-in-authentication-in-simple-way-f2f0ed3238f7?source=rss-e32b3c6a0b45------2) <sub>· Jan 10, 2025</sub>- [JWT vs Session Authentication: Choosing the Right Approach for Your Web Application](https://medium.com/@anuragbehura/jwt-vs-session-authentication-choosing-the-right-approach-for-your-web-application-e3a7e73f327b?source=rss-e32b3c6a0b45------2) <sub>· Oct 11, 2024</sub>- [What is ChatGPT &amp; it’s uses in all fields ?](https://medium.com/@anuragbehura/what-is-chatgpt-its-uses-in-all-fields-541bd7bac23d?source=rss-e32b3c6a0b45------2) <sub>· Feb 5, 2023</sub><!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+- [Access and Refresh Tokens in Authentication&lpar;in simple way&rpar;](https://medium.com/@anuragbehura/access-and-refresh-tokens-in-authentication-in-simple-way-f2f0ed3238f7?source=rss-e32b3c6a0b45------2) <sub>· Jan 10, 2025</sub>
+- [JWT vs Session Authentication: Choosing the Right Approach for Your Web Application](https://medium.com/@anuragbehura/jwt-vs-session-authentication-choosing-the-right-approach-for-your-web-application-e3a7e73f327b?source=rss-e32b3c6a0b45------2) <sub>· Oct 11, 2024</sub>
+- [What is ChatGPT &amp; it’s uses in all fields ?](https://medium.com/@anuragbehura/what-is-chatgpt-its-uses-in-all-fields-541bd7bac23d?source=rss-e32b3c6a0b45------2) <sub>· Feb 5, 2023</sub><!-- BLOG-POST-LIST:END -->
