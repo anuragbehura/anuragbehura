@@ -12,11 +12,11 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://medium.com/feed/@anuragbehura"
           max_post_count: 3
-          template: "- [$title]($url) <sub>· $date</sub>"
+          template: "$newline- [$title]($url) <sub>· $date</sub>"
           date_format: "mmm d, yyyy"
