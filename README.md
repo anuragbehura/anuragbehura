@@ -1,91 +1,101 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#58a6ff;">Anurag Behura</span></h1>
-<h3 align="center">💻 Software Engineer | Building <span style="color:#c678dd;">Chronicle</span> – AI-Powered Content and Document Platform</h3>
+<div align="center">
 
-<p align="center">
-  Passionate about crafting scalable, user-focused web applications with modern technologies. Currently building <strong>Chronicle</strong>, an AI-powered content and document platform inspired by Notion.
-  Passionate about building <b>scalable, user-centric web apps</b> using modern technologies.
-</p>
+# Anurag Behura
 
-<p align="center">
-  💼 Software Engineer<br/>
-  📝 Writing at <a href="https://medium.com/@anuragbehura">Medium</a><br/>
-  🌱 Currently learning: PostgreSQL, System Designing, AI Integrations
-</p>
+**Software Engineer** · Spring Boot & MySQL on the backend, Next.js & TypeScript on the front
 
----
+I build scalable, user-focused web products, from enterprise Java services to AI-powered SaaS.
 
-### 🚀 About Me
+<br/>
 
-- 🔭 Currently building **Chronicle** - an AI-powered content and document platform inspired by Notion
-- 💡 Experienced in building full-stack SaaS applications with **Next.js**, **TypeScript**, and **Node.js**
-- 🎯 Strong foundation in **Data Structures & Algorithms**, with focus on writing clean, maintainable code
-- 🌐 Check out my portfolio: [anuragbehura.vercel.app](https://anuragbehura.vercel.app)
-- 📫 Reach me: **behura960@gmail.com**
----
+[Portfolio](https://anuragbehura.vercel.app) &nbsp;·&nbsp; [Medium](https://medium.com/@anuragbehura) &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/anuragbehura) &nbsp;·&nbsp; [X](https://twitter.com/_anuragbehura_) &nbsp;·&nbsp; [Email](mailto:behura960@gmail.com)
 
-### 🛠️ Tech Stack
+</div>
 
-**Languages**  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+<br/>
 
-**Frontend**  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
+## Now
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/-REST_API-009688?style=flat&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/-JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+|  |  |
+| :-- | :-- |
+| **Building** | [Chronicle](https://anuragbehura.vercel.app), an AI-powered content and document platform inspired by Notion |
+| **Working with** | Java, Spring Boot, MySQL, and the realities of enterprise-scale codebases |
+| **Learning** | PostgreSQL, system design, AI integrations |
+| **2026 focus** | Ship Chronicle, go deeper on backend architecture, write about what I learn |
 
-**Database**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+<br/>
 
-**Tools & DevOps**  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white)
+## Stack
 
-**Core CS Fundamentals**  
-Data Structures & Algorithms • Object-Oriented Programming • Database Management Systems • Operating Systems • Computer Networks
+<div align="center">
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,postgres,ts,js,python&theme=dark&perline=7">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,spring,mysql,postgres,ts,js,python&theme=light&perline=7">
+  <img alt="Languages and databases" src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,ts,js,python&perline=7">
+</picture>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,nodejs,express,mongodb&theme=dark&perline=7">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,nodejs,express,mongodb&theme=light&perline=7">
+  <img alt="Web stack" src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,nodejs,express,mongodb&perline=7">
+</picture>
+<br/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,docker,postman,vercel,html,css&theme=dark&perline=6">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,docker,postman,vercel,html,css&theme=light&perline=6">
+  <img alt="Tools" src="https://skillicons.dev/icons?i=git,docker,postman,vercel,html,css&perline=6">
+</picture>
 
-### 📊 GitHub Stats
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragbehura&show_icons=true&locale=en&layout=compact&theme=dark" alt="anuragbehura" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anuragbehura&theme=dark" alt="anuragbehura" />
-</p>
+**Backend** Java · Spring Boot · REST APIs · Node.js · Express · JWT
+**Data** MySQL · PostgreSQL · MongoDB
+**Frontend** Next.js · React · TypeScript · Tailwind CSS · Redux
+**Foundations** DSA · OOP · DBMS · Operating Systems · Computer Networks
 
----
+<br/>
 
-### 📝 Latest Blog Posts
+## Activity
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=anuragbehura&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&hide=prs,issues&count_private=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=anuragbehura&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0969DA&icon_color=0969DA&text_color=24292F&hide=prs,issues&count_private=true">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuragbehura&show_icons=true&hide_border=true&hide=prs,issues">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragbehura&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragbehura&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0969DA&text_color=24292F">
+  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragbehura&layout=compact&hide_border=true">
+</picture>
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=anuragbehura&theme=transparent&hide_border=true&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=anuragbehura&theme=default&hide_border=true&ring=0969DA&fire=0969DA&currStreakLabel=0969DA">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=anuragbehura&hide_border=true">
+</picture>
+
+</div>
+
+<br/>
+
+## Writing
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
+<sub>Auto-updated from [Medium](https://medium.com/@anuragbehura). See the workflow file.</sub>
 
-### 🤝 Connect with Me
+<br/>
 
-<p align="left">
-<a href="https://linkedin.com/in/anuragbehura" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuragbehura" height="30" width="40" /></a>
-<a href="https://twitter.com/_anuragbehura_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_anuragbehura_" height="30" width="40" /></a>
-<a href="https://medium.com/@anuragbehura" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anuragbehura" height="30" width="40" /></a>
-</p>
+<div align="center">
 
----
+<sub>Always building, always learning. Say hi: <a href="mailto:behura960@gmail.com">behura960@gmail.com</a></sub>
 
-<p align="center">
-  <i>⚡ "Building the future, one commit at a time"</i>
-</p>
+</div>
